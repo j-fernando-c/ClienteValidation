@@ -1,0 +1,12 @@
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.csproj.AssemblyReference.cache
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.AssemblyInfoInputs.cache
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.AssemblyInfo.cs
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\bin\Debug\net7.0\BeautySoft.Utilidades.deps.json
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\bin\Debug\net7.0\BeautySoft.Utilidades.dll
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\bin\Debug\net7.0\BeautySoft.Utilidades.pdb
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.dll
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\refint\BeautySoft.Utilidades.dll
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\BeautySoft.Utilidades.pdb
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Utilidades\obj\Debug\net7.0\ref\BeautySoft.Utilidades.dll

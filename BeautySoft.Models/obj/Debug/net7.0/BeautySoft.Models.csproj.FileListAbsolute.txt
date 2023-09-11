@@ -1,0 +1,12 @@
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.csproj.AssemblyReference.cache
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.AssemblyInfoInputs.cache
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.AssemblyInfo.cs
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\bin\Debug\net7.0\BeautySoft.Models.deps.json
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\bin\Debug\net7.0\BeautySoft.Models.dll
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\bin\Debug\net7.0\BeautySoft.Models.pdb
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.dll
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\refint\BeautySoft.Models.dll
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\BeautySoft.Models.pdb
+C:\Users\juanr\OneDrive\Escritorio\Programación\C#\BeautySoft\BeautySoft.Models\obj\Debug\net7.0\ref\BeautySoft.Models.dll
